@@ -1,7 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webgay.com" resolutions="1x" timestamp="1556058061918">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webgay.com" resolutions="1x" timestamp="1556063345043">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4001616207" ref="index"/>
+    <file name="death.css" crc="486497126" ref="death"/>
+    <file name="index.css" crc="439389157" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="img_0043.png" crc="4244664928" seo="true" mt="1556054010000"/>
@@ -105,320 +106,22 @@
     <file name="img_0325.jpg" crc="4229908120" seo="true" mt="1556054012000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:death"/>
+    <file name="museutils.js" crc="340535759" ref="index:death"/>
+    <file name="whatinput.js" crc="86476730" ref="index:death"/>
+    <file name="museconfig.js" crc="310584261" ref="index:death"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:death"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:death"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="img_0044.jpg" crc="3819024705" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0047.jpg" crc="3983404694" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0052.jpg" crc="344222188" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0123.jpg" crc="4237966673" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0128.jpg" crc="450092774" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0135.jpg" crc="429148983" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0136.jpg" crc="4221669834" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0140.jpg" crc="148031085" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0143.jpg" crc="4198560005" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0144.jpg" crc="1544000" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0146.jpg" crc="4292071368" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0151.jpg" crc="4167697798" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0186.jpg" crc="3936543742" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0188.jpg" crc="423823102" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0194.jpg" crc="298615641" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0199.jpg" crc="3967349902" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0211.jpg" crc="478332748" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0221.jpg" crc="195121883" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0308.jpg" crc="4292580326" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0309.jpg" crc="4045580289" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0311.jpg" crc="4008147428" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0316.jpg" crc="370207334" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="img_0043.jpg" crc="3782119061" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_0045.jpg" crc="464874062" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0046.jpg" crc="3865226600" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0048.jpg" crc="3917245227" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0049.jpg" crc="41509441" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0051.jpg" crc="244339747" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0053.jpg" crc="4151030482" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0064.jpg" crc="3769636975" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0127.jpg" crc="255216073" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0129.jpg" crc="3971143529" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0130.jpg" crc="3867493837" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0131.jpg" crc="3874085145" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0132.jpg" crc="3916092986" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0133.jpg" crc="3806920662" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0134.jpg" crc="523072589" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0137.jpg" crc="4262115671" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0138.jpg" crc="3820360238" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0142.jpg" crc="4018457293" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0145.jpg" crc="3855026722" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0148.jpg" crc="3818764130" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0149.jpg" crc="3856207686" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0150.jpg" crc="3804471449" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0175.jpg" crc="4032064876" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0187.jpg" crc="4006076784" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0189.jpg" crc="3956016872" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0190.jpg" crc="4068033967" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0192.jpg" crc="443297107" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0193.jpg" crc="3963429944" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0195.jpg" crc="252566576" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0196.jpg" crc="466397479" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0197.jpg" crc="3832826617" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0198.jpg" crc="508596267" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0200.jpg" crc="157013653" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0201.jpg" crc="4063449552" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0202.jpg" crc="4008530104" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0203.jpg" crc="4287605768" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0204.jpg" crc="416853443" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0205.jpg" crc="4247562914" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0206.jpg" crc="3970333332" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0207.jpg" crc="481175426" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0208.jpg" crc="61700741" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0209.jpg" crc="470450310" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0210.jpg" crc="444036437" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0212.jpg" crc="4064849416" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0213.jpg" crc="3991434652" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0214.jpg" crc="4094076813" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0215.jpg" crc="3799139736" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0216.jpg" crc="14599470" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0217.jpg" crc="3930744611" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0218.jpg" crc="4031101896" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0219.jpg" crc="3981171042" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0220.jpg" crc="4269726981" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0312.jpg" crc="209078570" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0313.jpg" crc="4143031691" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0314.jpg" crc="4007897931" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0315.jpg" crc="4101533566" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0317.jpg" crc="422988126" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0318.jpg" crc="4117237205" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0319.jpg" crc="20017411" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0320.jpg" crc="3941701369" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0321.jpg" crc="4152315550" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0322.jpg" crc="57378366" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0323.jpg" crc="489905511" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0324.jpg" crc="4224628992" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0325.jpg" crc="13640685" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="rust lord.png" crc="3767893215" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0054.jpg" crc="3868430315" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0139.png" crc="53855196" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0141.png" crc="4055099778" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0147.jpg" crc="486717062" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0302.png" crc="3969950028" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0303.png" crc="522083864" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0304.png" crc="491605848" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0306.png" crc="4014758201" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0307.png" crc="3997628960" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0310.png" crc="493148730" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0305.png" crc="4061482803" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fag.jpg" crc="3809932841" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="img_0331.jpg" crc="78899614" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -608,6 +311,305 @@
     <file name="img_0394.jpg" crc="187728953" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="img_0044.jpg" crc="3819024705" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0045.jpg" crc="464874062" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0046.jpg" crc="3865226600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0047.jpg" crc="3983404694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0048.jpg" crc="3917245227" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rust lord.png" crc="3767893215" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0049.jpg" crc="41509441" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0051.jpg" crc="244339747" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0052.jpg" crc="344222188" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0053.jpg" crc="4151030482" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0054.jpg" crc="3868430315" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0064.jpg" crc="3769636975" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0123.jpg" crc="4237966673" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0127.jpg" crc="255216073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0128.jpg" crc="450092774" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0129.jpg" crc="3971143529" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0130.jpg" crc="3867493837" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0131.jpg" crc="3874085145" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0132.jpg" crc="3916092986" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0133.jpg" crc="3806920662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0134.jpg" crc="523072589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0135.jpg" crc="429148983" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0136.jpg" crc="4221669834" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0137.jpg" crc="4262115671" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0138.jpg" crc="3820360238" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0139.png" crc="53855196" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0140.jpg" crc="148031085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0141.png" crc="4055099778" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0142.jpg" crc="4018457293" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0143.jpg" crc="4198560005" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0144.jpg" crc="1544000" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0145.jpg" crc="3855026722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0146.jpg" crc="4292071368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0147.jpg" crc="486717062" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0148.jpg" crc="3818764130" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0149.jpg" crc="3856207686" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0150.jpg" crc="3804471449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0151.jpg" crc="4167697798" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0175.jpg" crc="4032064876" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0186.jpg" crc="3936543742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0187.jpg" crc="4006076784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0188.jpg" crc="423823102" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0189.jpg" crc="3956016872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0190.jpg" crc="4068033967" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0192.jpg" crc="443297107" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0193.jpg" crc="3963429944" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0194.jpg" crc="298615641" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0195.jpg" crc="252566576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0196.jpg" crc="466397479" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0197.jpg" crc="3832826617" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0198.jpg" crc="508596267" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0199.jpg" crc="3967349902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0200.jpg" crc="157013653" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0201.jpg" crc="4063449552" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0202.jpg" crc="4008530104" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0203.jpg" crc="4287605768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0204.jpg" crc="416853443" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0205.jpg" crc="4247562914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0206.jpg" crc="3970333332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0207.jpg" crc="481175426" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0208.jpg" crc="61700741" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0209.jpg" crc="470450310" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0210.jpg" crc="444036437" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0211.jpg" crc="478332748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0212.jpg" crc="4064849416" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0213.jpg" crc="3991434652" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0214.jpg" crc="4094076813" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0215.jpg" crc="3799139736" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0216.jpg" crc="14599470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0217.jpg" crc="3930744611" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0218.jpg" crc="4031101896" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0219.jpg" crc="3981171042" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0220.jpg" crc="4269726981" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0221.jpg" crc="195121883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0302.png" crc="3969950028" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0303.png" crc="522083864" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0304.png" crc="491605848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0305.png" crc="4061482803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0306.png" crc="4014758201" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0307.png" crc="3997628960" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0308.jpg" crc="4292580326" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0309.jpg" crc="4045580289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0310.png" crc="493148730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0311.jpg" crc="4008147428" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0312.jpg" crc="209078570" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0313.jpg" crc="4143031691" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0314.jpg" crc="4007897931" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0315.jpg" crc="4101533566" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0316.jpg" crc="370207334" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0317.jpg" crc="422988126" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0318.jpg" crc="4117237205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0319.jpg" crc="20017411" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0320.jpg" crc="3941701369" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0321.jpg" crc="4152315550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0322.jpg" crc="57378366" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0323.jpg" crc="489905511" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0324.jpg" crc="4224628992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0325.jpg" crc="13640685" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="fag.jpg" crc="3809932841" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="278932039" seo="true" mt="1556058026106" redirect="true"/>
+  <file name="index.html" crc="170528891" seo="true" mt="1556062367093" redirect="true"/>
+  <file name="death.html" crc="3908517859" seo="true" mt="1556063287927" redirect="true"/>
 </manifest>
