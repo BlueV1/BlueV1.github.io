@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webgay.com" resolutions="1x" timestamp="1556065641714">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webgay.com" resolutions="1x" timestamp="1556066114965">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="114204401" ref="index"/>
     <file name="untitled-3.css" crc="4018090707" ref="untitled-3"/>
-    <file name="index.css" crc="86096823" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="img_0043.png" crc="4244664928" seo="true" mt="1556054010000"/>
@@ -118,6 +118,7 @@
     <file name="require.js" crc="7928878" ref="index:untitled-3"/>
   </folder>
   <folder name="images">
+    <file name="favicon.ico" crc="3944216835" ref="index"/>
     <file name="img_0043.jpg" crc="3782119061" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -615,6 +616,6 @@
       <caption webpage="untitled-3" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3821932725" seo="true" mt="1556064042543" redirect="true"/>
-  <file name="untitled-3.html" crc="144219189" seo="true" mt="1556065601193" redirect="true"/>
+  <file name="index.html" crc="6366848" seo="true" mt="1556066095894" redirect="true"/>
+  <file name="untitled-3.html" crc="453175093" seo="true" mt="1556066095894" redirect="true"/>
 </manifest>
