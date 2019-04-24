@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webgay.com" resolutions="1x" timestamp="1556063624860">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webgay.com" resolutions="1x" timestamp="1556065641714">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="death.css" crc="486497126" ref="death"/>
-    <file name="index.css" crc="439389157" ref="index"/>
+    <file name="untitled-3.css" crc="4018090707" ref="untitled-3"/>
+    <file name="index.css" crc="86096823" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="img_0043.png" crc="4244664928" seo="true" mt="1556054010000"/>
@@ -106,16 +106,16 @@
     <file name="img_0325.jpg" crc="4229908120" seo="true" mt="1556054012000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:death"/>
-    <file name="museutils.js" crc="340535759" ref="index:death"/>
-    <file name="whatinput.js" crc="86476730" ref="index:death"/>
-    <file name="museconfig.js" crc="310584261" ref="index:death"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:death"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-3"/>
+    <file name="museutils.js" crc="340535759" ref="index:untitled-3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-3"/>
+    <file name="museconfig.js" crc="310584261" ref="index:untitled-3"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:untitled-3"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index:death"/>
+    <file name="require.js" crc="7928878" ref="index:untitled-3"/>
   </folder>
   <folder name="images">
     <file name="img_0043.jpg" crc="3782119061" seo="true" ref="index">
@@ -609,7 +609,12 @@
     <file name="fag.jpg" crc="3809932841" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="dab.gif" crc="73085256" seo="true" ref="untitled-3">
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="170528891" seo="true" mt="1556062367093" redirect="true"/>
-  <file name="death.html" crc="3908517859" seo="true" mt="1556063287927" redirect="true"/>
+  <file name="index.html" crc="3821932725" seo="true" mt="1556064042543" redirect="true"/>
+  <file name="untitled-3.html" crc="144219189" seo="true" mt="1556065601193" redirect="true"/>
 </manifest>
